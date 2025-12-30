@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I am currently working on some of my personal projects to build and demonstrate my skills. I am also working to complete industry-approved certifications in order to learn new skills.<br>🌱 I’m currently learning Machine Learning Algorithms and relevant fields like NLP, LLM and Deep Learning that is appliable in Data Science field.<br><br>
 
